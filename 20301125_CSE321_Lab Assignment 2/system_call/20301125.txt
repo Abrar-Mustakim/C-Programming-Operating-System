@@ -1,0 +1,2 @@
+Hello, This is My CSE 321 lab 1
+This is a String

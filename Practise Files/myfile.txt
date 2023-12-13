@@ -1,0 +1,3 @@
+This is some content
+Hello World
+THe file is Binary

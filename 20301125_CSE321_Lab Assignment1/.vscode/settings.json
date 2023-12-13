@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "MLTable": "yaml",
+        "*.embeddedhtml": "html",
+        "*.rmd": "markdown",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "initializer_list": "c",
+        "xstring": "c",
+        "xutility": "c"
+    }
+}
